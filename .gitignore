@@ -1,0 +1,15 @@
+#shell history
+.bash_history
+.zsh_history
+.lesshst
+*.log
+*.tmp
+*.swp
+
+#app locks
+.pki/
+.cache/
+
+#sys junk
+.DB_Store
+Thumbs.db
