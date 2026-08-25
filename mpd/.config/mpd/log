@@ -1,0 +1,588 @@
+2026-08-24T11:48:03 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T11:48:03 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T11:48:03 exception: Failed to open "/root/.config/mpd/state": No such file or directory
+2026-08-24T11:49:03 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T11:50:04 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T11:51:05 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T11:52:06 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T11:53:07 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T11:54:08 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T11:55:09 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T11:56:10 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T11:57:11 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T11:58:12 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T11:59:13 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:00:14 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:01:15 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:02:16 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:03:17 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:04:18 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:05:19 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:06:20 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:07:21 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:08:22 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:09:23 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:10:24 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:11:25 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:12:26 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:13:27 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:14:28 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:15:29 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:16:30 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:17:31 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:18:32 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:19:33 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:20:34 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:21:35 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:22:36 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:23:37 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:24:38 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:25:39 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:26:40 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:27:41 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:27:56 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:28:57 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:29:58 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:30:59 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:32:00 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:33:01 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:37:51 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:38:51 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:39:52 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:40:53 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:41:54 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:42:55 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:43:56 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:44:57 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:45:58 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:46:59 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:48:00 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:49:01 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:50:02 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:51:03 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:52:04 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:53:05 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T12:54:06 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:01:17 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:01:17 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T13:01:17 config: option "bind_to_address" on line 13 was not recognized
+2026-08-24T13:01:17 config: option "port" on line 14 was not recognized
+2026-08-24T13:02:17 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:03:18 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:04:19 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:05:20 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:06:21 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:07:22 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:08:23 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:09:24 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:10:25 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:11:26 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:12:27 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:12:37 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:13:28 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:14:28 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:14:29 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:14:31 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:14:31 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:15:03 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:15:30 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:16:31 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:17:24 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:17:24 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:17:24 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:17:24 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:17:25 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:17:25 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:17:32 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:17:51 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T13:17:51 config: option "bind_to_address" on line 13 was not recognized
+2026-08-24T13:17:51 config: option "port" on line 14 was not recognized
+2026-08-24T13:17:51 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:17:56 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:18:52 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:19:53 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:20:54 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:21:55 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:22:56 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:23:57 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:24:58 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:25:59 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:26:40 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:27:00 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:28:01 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:29:02 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:30:03 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:31:04 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:32:05 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:33:06 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:34:07 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:35:08 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:36:09 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:44:29 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:44:29 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T13:44:29 config: option "bind_to_address" on line 13 was not recognized
+2026-08-24T13:44:29 config: option "port" on line 14 was not recognized
+2026-08-24T13:44:37 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:44:38 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:44:38 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:44:38 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T13:45:30 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:46:31 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:47:32 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:48:33 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:49:34 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:50:35 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T13:51:36 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T14:06:00 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T14:06:00 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T14:06:00 config: option "bind_to_address" on line 13 was not recognized
+2026-08-24T14:06:00 config: option "port" on line 14 was not recognized
+2026-08-24T14:07:01 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T14:08:02 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T14:09:03 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T14:15:35 config: No global port, disabling zeroconf
+2026-08-24T14:15:35 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T14:15:35 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T14:16:31 config: No global port, disabling zeroconf
+2026-08-24T14:16:31 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T14:19:08 config: No global port, disabling zeroconf
+2026-08-24T14:19:08 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T14:25:02 config: No global port, disabling zeroconf
+2026-08-24T14:25:02 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T14:30:40 config: No global port, disabling zeroconf
+2026-08-24T14:30:40 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T14:32:49 config: No global port, disabling zeroconf
+2026-08-24T14:32:49 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T14:41:22 config: No global port, disabling zeroconf
+2026-08-24T14:41:22 exception: inotify_add_watch("/storage/601A-BC4D/Android/media/com.termux/Music") failed: No such file or directory
+2026-08-24T14:43:09 config: No global port, disabling zeroconf
+2026-08-24T14:43:09 exception: inotify_add_watch("/root/storage/601A-BC4D/Android/media/com.termux/Music") failed: No such file or directory
+2026-08-24T14:43:24 config: No global port, disabling zeroconf
+2026-08-24T14:43:24 exception: inotify_add_watch("/root/storage/601A-BC4D/Android/media/com.termux/Music") failed: No such file or directory
+2026-08-24T14:45:36 config: No global port, disabling zeroconf
+2026-08-24T14:45:36 exception: inotify_add_watch("/sdcard/Android/media/com.termux/Music") failed: No such file or directory
+2026-08-24T14:49:19 config: No global port, disabling zeroconf
+2026-08-24T14:50:06 config: No global port, disabling zeroconf
+2026-08-24T14:50:29 config: No global port, disabling zeroconf
+2026-08-24T14:52:44 config: No global port, disabling zeroconf
+2026-08-24T14:54:18 config: No global port, disabling zeroconf
+2026-08-24T14:54:37 config: No global port, disabling zeroconf
+2026-08-24T14:56:24 config: No global port, disabling zeroconf
+2026-08-24T14:56:41 config: No global port, disabling zeroconf
+2026-08-24T14:58:23 config: No global port, disabling zeroconf
+2026-08-24T15:04:49 config: No global port, disabling zeroconf
+2026-08-24T15:04:49 exception: inotify_add_watch("/root/sdcard/Music") failed: No such file or directory
+2026-08-24T15:06:38 config: No global port, disabling zeroconf
+2026-08-24T15:06:38 exception: inotify_add_watch("/root/sdcard/Music") failed: No such file or directory
+2026-08-24T15:06:56 exception: Failed to access /root/sdcard/Music: No such file or directory
+2026-08-24T15:06:57 exception: Failed to access /root/sdcard/Music: No such file or directory
+2026-08-24T15:10:54 exception: Failed to access /root/sdcard/Music: No such file or directory
+2026-08-24T15:10:55 exception: Failed to access /root/sdcard/Music: No such file or directory
+2026-08-24T15:10:56 exception: Failed to access /root/sdcard/Music: No such file or directory
+2026-08-24T15:12:00 exception: Failed to access /root/sdcard/Music: No such file or directory
+2026-08-24T15:26:52 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:27:53 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:28:54 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:29:55 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:30:56 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:31:57 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:32:28 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:32:51 update: added /Panchiko - All They Wanted(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /The Marías - Over The Moon(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /youre always on my mind_(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /Loathe - Screaming (OFFICIAL AUDIO STREAM)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /Loathe - Two-Way Mirror (Official Music Video)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /mindfreakkk - Museum of My Mess (Official Music Video)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /okayceci - i do luv u(MP3_160K)_1.mp3
+2026-08-24T15:32:51 update: added /okayceci - lack of you (official music video)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /For the love of God_ please_ Sound Effect _ Meme(MP3_160K)_1.mp3
+2026-08-24T15:32:51 update: added /I adore u_ regardless(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /I Got This Sound Effect(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /kanegi. - if you_ll have me (official lyric video)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /Loathe - A Sad Cartoon (OFFICIAL AUDIO STREAM)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /Careless Whisper - George Michael ೀ _carelesswhisper _georgemichael _temon _lyrics _lyricsvideo _lyric _lyrics_songs _tiktoksong _tiktoksongs _tiktokaudiosspedupp _speedsongs _spedup _audioforedits(MP3)_1.mp3
+2026-08-24T15:32:51 update: added /Chezile - Blue (Official Audio)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /DᐳEᐳAᐳTᐳHᐳMᐳEᐳTᐳAᐳL(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /FAH Echo Sound Effect(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /A Sorrowful Reunion - Reality Club (Official Lyric Video)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /Allahu Akbar Sound Effect(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /beabadoobee - All I Did Was Dream Of You (Official Video) ft. The Marías(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /beabadoobee - Cologne (Official Video)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /Brainrot alarm(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /Brr Brr Patapim Alarm(MP3_160K)_1.mp3
+2026-08-24T15:32:51 update: added /The Marías - Heavy (Official Audio)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /The Rare Occasions _ Origami (Lyric Video)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /The Rare Occasions - Notion(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /Zild - Medisina (Official Video)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /Nathaniel Constantin - A Piece of You (Official Lyric Video)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /Summer Walker - Just Might (Lyrics) ft. PARTYNEXTDOOR(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /The Marías - Nobody New(MP3_160K)_1.mp3
+2026-08-24T15:32:51 update: added /Unique Salonga - Sino (Official Music Video)(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /wave to earth - seasons(MP3_160K).mp3
+2026-08-24T15:32:51 update: added /Zild - Isang Anghel (Official Video)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Post Malone - Circles (Official Music Video)(MP3_160K)_1.mp3
+2026-08-24T15:32:52 update: added /Post Malone - Circles (Official Music Video)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Post Malone_ Swae Lee - Sunflower (Spider-Man_ Into the Spider-Verse) (Official Video)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Reunion(MP3_160K)_1.mp3
+2026-08-24T15:32:52 update: added /Stress Relief(MP3_160K)_1.mp3
+2026-08-24T15:32:52 update: added /SunKissed Lola - Pasilyo (Official Lyric Video)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /The Marías - Back To Me(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Mundo(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Nelly Furtado - Maneater(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /nicosbands _ sunohara - fall (Official Audio)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Pag-Ibig ay Kanibalismo II (Lyric Video)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /PARTYNEXTDOOR - Some Of Your Love (Lyrics) _come give me some of your love_(MP3_160K)_1.mp3
+2026-08-24T15:32:52 update: added /Loathe - Is It Really You_ (OFFICIAL AUDIO STREAM)(MP3_160K)_1.mp3
+2026-08-24T15:32:52 update: added /Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Malcolm Todd - Sweet Boy (Lyrics)(MP3_160K)_1.mp3
+2026-08-24T15:32:52 update: added /Malcolm Todd - Sweet Boy (Lyrics)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Mayonnaise - Tayo Na Lang Dalawa Lyrics(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /migraine(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Joji - SLOW DANCING IN THE DARK(MP3_160K)_1.mp3
+2026-08-24T15:32:52 update: added /Jopay(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /juan karlos - Buwan(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Justin Bieber - Right Here ft. Drake (Official Audio) ft. Drake(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /kiyo - Ikaw Lang (Official Music Video)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Let Down (Remastered)(MP3_160K)_1.mp3
+2026-08-24T15:32:52 update: added /IV OF SPADES - Suliranin (Official Music Video)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /ivri - tower of memories(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Join The Club - Nobela (Lyrics)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Joji - Die For You(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Joji - Past Won_t Leave My Bed (Lyrics)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /Joji - SLOW DANCING IN THE DARK(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /I Want Things to Be Beautiful(MP3_160K)_1.mp3
+2026-08-24T15:32:52 update: added /Ibang Planeta - ZILD (Lyrics)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /IV OF SPADES - Aura (Official Music Video)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /IV OF SPADES - Bawat Kaluluwa (Official Video)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /IV OF SPADES - Konsensya (Official Music Video)(MP3_160K).mp3
+2026-08-24T15:32:52 update: added /IV OF SPADES - Nanaman (Official Lyric Video)(MP3_160K).mp3
+2026-08-24T15:32:53 update: added /Entry Four(MP3_160K).mp3
+2026-08-24T15:32:53 update: added /Eraserheads - Magasin (Lyrics)(MP3_160K).mp3
+2026-08-24T15:32:53 update: added /Fell In Luv(MP3_160K).mp3
+2026-08-24T15:32:53 update: added /GESHUOU(MP3_160K).mp3
+2026-08-24T15:32:53 update: added /girl in red - we fell in love in october(MP3_160K).mp3
+2026-08-24T15:32:53 update: added /Heaven Sent(MP3_160K).mp3
+2026-08-24T15:32:53 update: added /Back To Strangers(MP3_160K).mp3
+2026-08-24T15:32:53 update: added /Belong to the City(MP3_160K).mp3
+2026-08-24T15:32:53 update: added /Cooler Than Me(MP3_160K).mp3
+2026-08-24T15:32:53 update: added /EMMAN - Teka Lang (Official Lyric Video)(MP3_160K).mp3
+2026-08-24T15:32:53 update: added /Entombed(MP3_160K).mp3
+2026-08-24T15:32:53 update: added /_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3
+2026-08-24T15:33:29 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:34:30 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:36:08 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:36:30 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:36:40 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:36:50 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:37:00 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:37:08 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:38:09 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:39:10 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:40:11 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:41:12 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:42:13 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:43:14 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:44:15 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:45:16 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:46:17 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:47:18 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:48:19 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:49:20 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:50:21 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:52:26 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:53:27 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:54:19 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:54:28 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:54:29 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:54:39 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:54:49 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:54:59 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:55:10 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:55:20 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:55:30 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:55:30 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:55:40 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:55:50 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:56:00 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:56:10 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:56:21 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:56:30 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:56:31 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:56:51 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:57:39 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T15:58:03 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T15:58:56 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T15:59:57 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:00:37 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:00:50 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T16:01:00 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T16:01:10 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T16:01:21 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T16:01:31 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T16:01:38 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:01:41 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T16:01:46 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T16:01:56 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T16:02:06 exception: Failed to open "PulseAudio output" (pulse); failed to connect: Connection refused
+2026-08-24T16:16:25 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:16:25 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T16:16:25 config: option "server" on line 16 was not recognized
+2026-08-24T16:16:34 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:34 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:35 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:35 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:38 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:38 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:38 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:38 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:47 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:47 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:48 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:48 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:48 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:48 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:48 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:48 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:48 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:48 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:49 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:49 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:49 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:49 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:49 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:49 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:49 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:49 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:16:49 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:51 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:51 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:16:52 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:53 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:16:53 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:53 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:16:53 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:53 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:53 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:16:54 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:16:54 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:17:26 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:18:27 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:19:28 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:20:29 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:21:30 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:22:09 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:22:09 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T16:22:09 config: option "server" on line 16 was not recognized
+2026-08-24T16:23:36 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:23:36 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T16:23:36 config: option "server" on line 16 was not recognized
+2026-08-24T16:23:45 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:23:45 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:23:45 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:23:45 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:23:46 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:23:46 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:23:46 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:23:46 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:23:46 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:24:37 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:25:06 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:25:06 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:25:06 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:25:06 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:25:07 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:25:07 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:25:08 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:25:08 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:25:08 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:25:08 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:25:08 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:25:08 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:25:08 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:25:08 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:25:09 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:25:09 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:25:09 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:25:09 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:25:09 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:25:09 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:25:09 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:25:38 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:26:01 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:01 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:26:01 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:01 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:26:02 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:02 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:26:02 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:02 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:26:03 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:03 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:26:04 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:04 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:26:04 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:04 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:26:05 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:05 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:26:06 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:06 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:26:06 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:06 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:26:07 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:07 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:26:07 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:07 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:26:07 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:07 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:26:07 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:07 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:26:07 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:26:39 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:27:40 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:28:41 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:29:42 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:30:43 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:31:44 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:32:45 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:33:46 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:34:47 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:35:48 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:36:49 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:39:00 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:39:00 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T16:39:41 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:41 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:39:41 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:41 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:39:42 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:42 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:39:42 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:42 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:39:42 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:42 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:39:42 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:42 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:39:43 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:43 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:39:43 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:43 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:39:44 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:44 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:39:44 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:44 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:39:46 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:46 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:39:47 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:47 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:39:47 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:47 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:39:47 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:47 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:47 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:39:58 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:39:58 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:40:01 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:40:04 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:04 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:40:05 exception: Failed to decode "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:05 player: played "Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:40:06 exception: Failed to decode "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:06 player: played "Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:40:07 exception: Failed to decode "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:07 player: played "Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:40:08 exception: Failed to decode "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:08 player: played "Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:40:09 exception: Failed to decode "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:09 player: played "Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:40:09 exception: Failed to decode "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:10 exception: Failed to decode "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:10 player: played "Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:40:12 exception: Failed to decode "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:12 player: played "Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:40:34 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:34 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:40:34 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:34 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:40:34 exception: Failed to decode "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:34 player: played "Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:40:34 exception: Failed to decode "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:34 player: played "Lonely God - Marlboro Nights (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:40:34 exception: Failed to decode "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:34 player: played "_uicideBoy_ – ...And To Those I Love_ Thanks For Sticking Around (Lyric Video)(MP3_160K).mp3"
+2026-08-24T16:40:34 exception: Failed to decode "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"; Failed to open "/storage/601A-BC4D/Music/Eraserheads - Magasin (Lyrics)(MP3_160K).mp3": No such file or directory
+2026-08-24T16:40:34 player: played "Eraserheads - Magasin (Lyrics)(MP3_160K).mp3"
+2026-08-24T16:41:02 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:42:03 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:42:41 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:42:41 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:42:41 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T16:42:55 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:43:42 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:44:43 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:44:47 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:44:48 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:45:44 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:46:45 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:47:52 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:47:52 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T16:48:02 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:48:03 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:48:11 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:48:11 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:48:11 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:48:11 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:48:12 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:48:12 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:48:12 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T16:57:13 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:57:13 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T16:58:14 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:58:57 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T16:58:57 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T16:59:57 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:00:58 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:01:59 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:02:29 exception: inotify_add_watch("/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T17:02:29 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:02:46 exception: Failed to access /storage/601A-BC4D/Music: No such file or directory
+2026-08-24T17:03:30 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:04:31 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:05:32 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:06:33 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:07:34 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:08:35 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:09:36 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:09:52 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:09:52 exception: inotify_add_watch("/root/storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T17:10:53 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:11:07 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:11:07 exception: inotify_add_watch("/root/../storage/601A-BC4D/Music") failed: No such file or directory
+2026-08-24T17:12:08 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:12:33 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:12:50 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:13:51 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:14:52 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:15:53 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:16:54 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:17:22 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:18:23 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:19:24 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:20:25 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:20:46 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:21:47 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:22:48 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:23:49 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:24:50 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:25:51 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:26:52 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:27:53 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:28:54 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:29:55 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:30:56 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:31:57 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:33:07 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:34:08 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:37:40 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:38:04 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:39:05 exception: Failed to create Avahi client: Daemon not running
+2026-08-24T17:40:06 exception: Failed to create Avahi client: Daemon not running

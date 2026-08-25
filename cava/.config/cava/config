@@ -1,0 +1,4 @@
+[input]
+method = pulse
+source = OpenSL_ES_sink.monitor
+
