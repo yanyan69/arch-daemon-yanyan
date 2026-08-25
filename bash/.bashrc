@@ -11,6 +11,9 @@ fastfetch
 #custom terminal
 PS1="┌─ \[\e[0;34m\]\w\[\e[0m\]\n└─ \[\e[0;34m\]yanyan67_archlinux\[\e[0m\] ❯ "
 
+export PATH="$PATH:/usr/bin/bsdgames"
+export EDITOR="nvim"
+
 #alias
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
@@ -47,6 +50,17 @@ music-off() {
 
 alias cava="run-current-termux pulseaudio --start 2>/dev/null && command cava"
 
-export PATH="$PATH:/usr/bin/bsdgames"
-export EDITOR="nvim"
+# 2. DEVICE & ENVIRONMENT LOGIC
+if [ -n "$TERMUX_VERSION" ]; then
+    # --- THIS BLOCK ONLY RUNS IN NATIVE TERMUX ---
+    echo "Welcome to Native Termux hardware shell!"
 
+elif [ -f /etc/arch-release ]; then
+    # --- THIS BLOCK ONLY RUNS INSIDE ARCH LINUX ---
+    echo "Welcome to your Arch Linux Server Daemon!"
+
+else
+    # --- THIS BLOCK RUNS ON YOUR WINDOWS PC (GIT BASH) ---
+    alias phonedev='ssh u0_a234@192.168.1.50 -p 8022'
+    echo "Welcome back to your Windows Dev Environment!"
+fi
