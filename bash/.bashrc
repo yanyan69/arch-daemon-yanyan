@@ -7,13 +7,13 @@
 
 #execute on boot
 fastfetch
-
+pulseaudio --start --exit-idle-time=-1 2>/dev/null
 #custom terminal
 PS1="┌─ \[\e[0;34m\]\w\[\e[0m\]\n└─ \[\e[0;34m\]yanyan67_archlinux\[\e[0m\] ❯ "
 
 export PATH="$PATH:/usr/bin/bsdgames"
 export EDITOR="nvim"
-export PULSE_SERVER=127.0.0.1
+export PULSE_SERVER="tcp:127.0.0.1:4713"
 #alias
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
@@ -49,6 +49,7 @@ music-off() {
 }
 
 alias cava="run-current-termux pulseaudio --start 2>/dev/null && command cava"
+
 alias dotsync='cd ~/arch-daemon && git add . && git commit -m "sync configs" && git push && stow * && cd ~'
 # 2. DEVICE & ENVIRONMENT LOGIC
 if [ -n "$TERMUX_VERSION" ]; then
