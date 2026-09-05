@@ -13,3 +13,4 @@
 #sys junk
 .DB_Store
 Thumbs.db
+*.local

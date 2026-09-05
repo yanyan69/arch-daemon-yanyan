@@ -1,0 +1,11 @@
+[core]
+    editor = nvim
+[init]
+    defaultBranch = main
+[alias]
+    st = status
+    co = checkout
+
+# Include local secret settings if the file exists
+[include]
+    path = ~/.gitconfig.local
