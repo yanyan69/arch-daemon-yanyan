@@ -37,8 +37,8 @@
 	{ "type": "gpu", "key": " ├ GPU "},
         { "type": "memory", "key": " ├ RAM ", "binaryPrefix": "iec", "percent": {"show": true } },
         { "type": "swap", "key": " ├ SWAP" },
-	{ "type": "disk", "key": " ├ DISK", "folders": "/", "format": "{1}/{2} ({3})" },
-	{ "type": "battery", "key": " └ BATT", "format": "{4}% [{5}]" },
+	{ "type": "disk", "key": " ├ DISK", "folders": "/", "format": "{0} / {2} ({3})" },
+	{ "type": "battery", "key": " └ BATT", "format": "{4} [{5}]" },
         "break",
 
 	//NETWORK
