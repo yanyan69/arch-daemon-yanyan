@@ -35,3 +35,4 @@ fi
 
 # Startup commands
 fastfetch
+export RISH_APPLICATION_ID="com.termux"
