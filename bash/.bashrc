@@ -22,7 +22,7 @@ if [ -n "$TERMUX_VERSION" ]; then
 	export RISH_APPLICATION_ID="com.termux"
 	export PATH="$PATH:/usr/bin/bsdgames"
 	pulseaudio --start 2>/dev/null
-	
+	alias remote-music-play="cd /sdcard/Download/Seal/Audio && find . -type f \( -iname "*.mp3" -o -iname "*.m4a" -o -iname "*.flac" \) | sed 's|^\./||' > playlist.m3u && rclone serve http . --addr 0.0.0.0:8080"
 	#alias
 	alias cava="run-current-termux pulseaudio --start 2>/dev/null && command cava"
 
